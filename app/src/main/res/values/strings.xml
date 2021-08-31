@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Covid-19 Tracker</string>
+    <string name="let_s_grow_more">Let\'s Grow More</string>
+    <string name="global_stats">Global Stats</string>
+    <string name="cases">Cases</string>
+    <string name="number_of_cases">Number Of Cases</string>
+    <string name="recovered">Recovered</string>
+    <string name="number_of_recovered">Number Of Recovered</string>
+    <string name="deaths">Deaths</string>
+    <string name="number_of_deaths">Number Of Deaths</string>
+    <string name="indian_stats">Indian Stats</string>
+    <string name="state_stats">State Stats</string>
+    <string name="state_name">State Name</string>
+</resources>
